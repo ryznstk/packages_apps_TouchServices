@@ -1,2 +1,2 @@
-type touchservice_app, domain;
+type touchservice_app, domain, coredomain;
 typeattribute touchservice_app mlstrustedsubject;
